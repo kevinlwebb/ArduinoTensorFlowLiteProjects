@@ -1,5 +1,7 @@
+gast==0.2.2
 pandas
 numpy
 jupyter
 matplotlib
 tensorflow==2.0.0-rc1
+sklearn
