@@ -1,0 +1,5 @@
+pandas
+numpy
+jupyter
+matplotlib
+tensorflow==2.0.0-rc1
