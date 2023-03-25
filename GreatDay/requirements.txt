@@ -3,5 +3,5 @@ pandas
 numpy
 jupyter
 matplotlib
-tensorflow==2.0.0-rc1
+tensorflow==2.11.1
 sklearn
